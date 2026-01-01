@@ -57,15 +57,17 @@ Responsive website for immigration consultancy
 
 ## 📈 GitHub Stats
 
-![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagankumar1510&show_icons=true&theme=minimal&hide_border=true)
+![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagankumar1510&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=0969da)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan1015&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://res.cloudinary.com/dz8p5iadt/image/upload/v1767226077/linkedin-logo_aizjio.png))](https://linkedin.com/in/gagan-kumar1510)
-[![Email]([https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white](https://res.cloudinary.com/dz8p5iadt/image/upload/v1767226135/gmail-logo_qynutp.jpg))](mailto:gagansaini1510@gmail.com)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white](https://res.cloudinary.com/dz8p5iadt/image/upload/v1767226271/portfolio-logo_nscyfe.avif))](https://gagankumar.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagan-kumar1510)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagansaini1510@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gagankumar.me)
 
 ---
 
