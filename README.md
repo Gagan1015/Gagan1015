@@ -57,9 +57,10 @@ Responsive website for immigration consultancy
 
 ## 📈 GitHub Stats
 
-![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagankumar1510&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=0969da)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan1015&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gagan1015&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gagan1015&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+</div>
 
 ---
 
