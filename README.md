@@ -48,7 +48,7 @@ Modern matchmaking platform with personality-driven algorithm
 **Tech:** Laravel, PHP, MySQL, Responsive UI  
 ✨ Custom quiz • Invite system • Real-time matching • Admin controls
 
-### Kairo Global — Immigration Services
+### [Kairo Global](https://kairoglobal.co.in) — Immigration Services
 Responsive website for immigration consultancy  
 **Tech:** WordPress, JavaScript, SEO optimization  
 ✨ Content management • Smooth navigation • Mobile-first design
@@ -63,9 +63,9 @@ Responsive website for immigration consultancy
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagan-kumar1510)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gagansaini1510@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://gagankumar.me)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://res.cloudinary.com/dz8p5iadt/image/upload/v1767226077/linkedin-logo_aizjio.png))](https://linkedin.com/in/gagan-kumar1510)
+[![Email]([https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white](https://res.cloudinary.com/dz8p5iadt/image/upload/v1767226135/gmail-logo_qynutp.jpg))](mailto:gagansaini1510@gmail.com)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white](https://res.cloudinary.com/dz8p5iadt/image/upload/v1767226271/portfolio-logo_nscyfe.avif))](https://gagankumar.me)
 
 ---
 
