@@ -1,57 +1,31 @@
 # Hi, I'm Gagan Kumar 👋
 
-**Full Stack Developer** specializing in **Backend Engineering** | Building scalable web applications with Laravel & PHP
+**Full Stack Developer** focused on building intersectional digital experiences  
+Laravel · Node.js · React · TypeScript · MySQL · MongoDB
 
-📍 Meerut, India  
-💼 Full Stack Developer @ Global Matrix Solution  
-🎓 B.Tech in Computer Science Engineering  
-🌐 [gagankumar.me](https://gagankumar.me)
+📍 Meerut, India &nbsp;|&nbsp; 💼 Full Stack Developer &nbsp;|&nbsp; 🌐 [gagankumar.me](https://gagankumar.me)
 
 ---
 
 ## 🚀 About Me
 
-I craft robust backend systems and dynamic web applications. Currently focused on building scalable APIs, optimizing databases, and solving complex algorithmic challenges. Passionate about clean code, performance optimization, and creating seamless user experiences.
+I build full-stack web applications, REST APIs, and SaaS products — from database to UI.  
+Currently working on real-time systems, scalable backend architectures, and clean TypeScript codebases.
 
-**Currently working on:**
-- 🔨 AI-powered job matching platform ([Skills360.ai](https://skills360.ai))
-- 💡 Custom matchmaking algorithms for dating platforms
-- 📊 Database optimization and scalable backend architectures
+---
+
+## 🔨 Featured Project
+
+### [TypeRacer](https://typeracer.gagankumar.me) — Real-time Competitive Typing Platform
+Full-stack TypeScript monorepo with single-player & multiplayer races, Elo-style ranked play, live leaderboards, and anti-cheat workflows  
+`React` `Vite` `Express` `Socket.IO` `MongoDB` `TypeScript` `Zustand` `Tailwind`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`PHP` `JavaScript` `SQL` `HTML/CSS`
-
-**Frameworks & Tools**  
-`Laravel` `React` `WordPress` `Tailwind CSS` `jQuery`
-
-**Backend & Database**  
-`MySQL` `RESTful APIs` `Authentication` `Query Optimization`
-
-**Development**  
-`Git` `Responsive Design` `SEO` `Cross-browser Compatibility`
-
----
-
-## 💼 Featured Projects
-
-### [Skills360.ai](https://skills360.ai) — Job Matching Platform
-AI-powered job platform connecting employers and jobseekers with intelligent matching  
-**Tech:** Laravel, MySQL, JavaScript, AI Integration  
-✨ Resume builder • NOC code mapping • Advanced filtering • Admin dashboard
-
-### [DelWell](https://hellodelwell.com) — Dating Platform
-Modern matchmaking platform with personality-driven algorithm  
-**Tech:** Laravel, PHP, MySQL, Responsive UI  
-✨ Custom quiz • Invite system • Real-time matching • Admin controls
-
-### [Kairo Global](https://kairoglobal.co.in) — Immigration Services
-Responsive website for immigration consultancy  
-**Tech:** WordPress, JavaScript, SEO optimization  
-✨ Content management • Smooth navigation • Mobile-first design
+`PHP` `JavaScript` `TypeScript` `SQL` &nbsp;|&nbsp; `Laravel` `Node.js` `Express` `React`  
+`MySQL` `MongoDB` `REST APIs` `Socket.IO` &nbsp;|&nbsp; `Git` `Tailwind CSS` `WordPress`
 
 ---
 
@@ -72,4 +46,4 @@ Responsive website for immigration consultancy
 
 ---
 
-*Open to backend development opportunities and exciting collaborations*
+*Open to full-stack and backend engineering opportunities*
