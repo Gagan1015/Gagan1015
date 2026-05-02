@@ -23,7 +23,7 @@ I care about interfaces that feel considered, APIs that stay predictable, and pr
 | Project | Focus | Links |
 | --- | --- | --- |
 | Arcado | Real-time multiplayer rooms for arcade-style games. | [Repo](https://github.com/Gagan1015/Arcado) / [Live](https://arcado.gagankumar.me) |
-| TypeRacer | Competitive typing platform with multiplayer races and leaderboards. | [Repo](https://github.com/Gagan1015/TypeRacer) / [Live](https://typeracer.gagankumar.me/login) |
+| TypeRacer | Competitive typing platform with multiplayer races and leaderboards. | [Repo](https://github.com/Gagan1015/TypeRacer) / [Live](https://typeracer.gagankumar.me) |
 | Portfolio | React frontend with a Laravel API and CMS-backed content. | [Repo](https://github.com/Gagan1015/Gagan_Kumar_Portfolio) / [Live](https://gagankumar.me) |
 
 ## Stack
