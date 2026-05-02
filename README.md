@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/gagan-kumar-profile-banner.png" alt="Minimal architectural banner for Gagan Kumar" width="100%" />
-</p>
-
 <h1 align="center">Gagan Kumar</h1>
 
 <p align="center">
