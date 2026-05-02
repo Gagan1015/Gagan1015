@@ -25,7 +25,6 @@ I care about interfaces that feel considered, APIs that stay predictable, and pr
 | Arcado | Real-time multiplayer rooms for arcade-style games. | [Repo](https://github.com/Gagan1015/Arcado) / [Live](https://arcado.gagankumar.me) |
 | TypeRacer | Competitive typing platform with multiplayer races and leaderboards. | [Repo](https://github.com/Gagan1015/TypeRacer) / [Live](https://typeracer.gagankumar.me/login) |
 | Portfolio | React frontend with a Laravel API and CMS-backed content. | [Repo](https://github.com/Gagan1015/Gagan_Kumar_Portfolio) / [Live](https://gagankumar.me) |
-| Expensly | Expense tracking and budget management platform. | [Repo](https://github.com/Gagan1015/Expensly) / [Live](https://expansly.app) |
 
 ## Stack
 
